@@ -6,7 +6,8 @@
 
 ## deep learning
 
-### pytorch
+### [pytorch](https://github.com/pytorch/pytorch)
+
 
 ### tensorflow
 
@@ -17,7 +18,9 @@
 - [ ] [practicalAI](https://github.com/GokuMohandas/practicalAI)  在Google Colab 上运行（免费提供云端 GPU 或 TPU），来自[机器之心](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650753681&idx=1&sn=c17896c0c2d5fa85b11541b29bc84427&chksm=871a8eefb06d07f98d46b4e1fb3d00840017e18625e2da20eb8920ba29963268888054d0b973&mpshare=1&scene=24&srcid=1212ENLgXI4zWIY4wSUrc9Dd#rd)
 尚未完成，正在逐渐更新
 
-- [ ] [《Pytorch模型训练实用教程》中配套代码](https://github.com/tensor-yu/PyTorch_Tutorial)
+- [ ] [《Pytorch模型训练实用教程》中配套代码](https://github.com/tensor-yu/PyTorch_Tutorial) —— [84 页的 PyTorch 模型训练实用教程中文版发布！](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247486669&idx=1&sn=35c2723e67adbd2c2d89a7750d89c549&chksm=976fa950a018204618c41e32f9a0d27257bda6389ee97eeb096d9c6f4d96592a51d09e7b3763&mpshare=1&scene=24&srcid=1228mfFVzynrNI7w4QZXcW8Y#rd)
+- [ ] [PyTorch实战指南](https://zhuanlan.zhihu.com/p/29024978) —— [PyTorch实践指南配套代码](https://github.com/chenyuntc/pytorch-best-practice)
+
 
 #### tensorflow
 
