@@ -72,6 +72,7 @@
 
 - [ ] [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [ ] [Interactive Online Platform that Visualizes Algorithms](https://github.com/algorithm-visualizer/algorithm-visualizer)
+- [ ] [集20年之大成，这是一本开源的算法教科书](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650755049&idx=2&sn=67ccde0f9e8a82e464f8606b86d5871e&chksm=871a8b97b06d02817ce1f4ff650cdad07f3a3d45136ed8387d1c62e5aab4116d844c6a48cff1&scene=0&xtrack=1#rd) —— [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 ## C++
 
