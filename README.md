@@ -42,11 +42,23 @@
 
 ## machine learning
 
+### 特征工程
+
+- [ ] [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh)
+
 ### 自动建模
 
 - [ ] [AUTOML: METHODS, SYSTEMS, CHALLENGES (NEW BOOK)](https://www.automl.org/book/)
 
 ## NLP
+
+### 工具
+
+- [ ] [pytext](https://github.com/facebookresearch/pytext)
+[Facebook开源NLP建模框架PyText，从论文到产品部署只需数天](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650753854&idx=2&sn=7768f2f5826c5ed68c1593641605979e&chksm=871a8f40b06d0656b83a213b13fa750aaf499bf75faf9157a536212f3240f3a4565cf8ab0e6d&mpshare=1&scene=1&srcid=0114lCQ5bibhXHvRAP8tU5Rz#rd)
+PyText是由Facebook开源的基于 PyTorch 构建的深度学习 NLP 建模框架。PyText 通过为模型组件提供简单且可扩展的接口和抽象，以及使用 PyTorch 的 Caffe2 执行引擎导出模型进行推理的功能，它可以连接 ONNX 和 Caffe2。
+
+- [ ]
 
 ### 讲义
 - [ ] [写给NLP研究者的编程指南](https://zhuanlan.zhihu.com/p/48504619)
@@ -78,3 +90,12 @@
 
 - 编译器
   - [ ] [LLVM](https://llvm.org/docs/index.html)
+- [ ] [DataFrame](https://github.com/hosseinmoein/DataFrame)
+- [ ] [apache arrow](https://github.com/apache/arrow)
+- [ ] [dnet](https://github.com/clab/dynet)
+- [ ] [mlpack](https://github.com/mlpack/mlpack)
+- [ ] [Apache Arrow and the "10 Things I Hate About pandas"](http://wesmckinney.com/blog/apache-arrow-pandas-internals/)
+
+## PPT
+
+- [ ] [演说](http://yanshuo.io/)
