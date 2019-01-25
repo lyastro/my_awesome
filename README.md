@@ -61,8 +61,15 @@ PyText是由Facebook开源的基于 PyTorch 构建的深度学习 NLP 建模框�
 - [ ]
 
 ### 讲义
+
 - [ ] [写给NLP研究者的编程指南](https://zhuanlan.zhihu.com/p/48504619)
 
+#### 教程
+
+- [ ] [时隔两年，斯坦福NLP标准公开课CS224N将再次开放视频](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650755237&idx=2&sn=c8545eeb4a29aec377640019cbd8a714&chksm=871a94dbb06d1dcda543c783e62c4ac66b909cc522c1cc08135d9a4b38070a6f8e6e6df5068b&mpshare=1&scene=1&srcid=0114kursbwgKcmhlsSuEKEVQ#rd)——[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+CS224N 是一门关于自然语言处理的专项课程，虽然有很多公开课都会涉及循环神经网络或语言建模等内容，但很少如它那样会系统地介绍自然语言处理任务。包括词嵌入、依存关系解析、神经机器翻译、语音识别和语义消歧等。此外在 19 年的新课程中，它还会重点介绍最近非常流行的 Transformer 和预训练表征，这些系统化的新内容真的很令人期待。在 17 年的课程中，CS224N 采用的是 TensorFlow，今年采用的是更加简洁的 PyTorch。不过今年并没有专门介绍 PyTorch 的课时，所以还需要读者预先学习 PyTorch。
+
+- [ ]
 
 ## algorithm
 
